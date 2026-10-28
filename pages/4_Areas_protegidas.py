@@ -1,0 +1,2 @@
+from datasets import AREAS_PROTEGIDAS, mostrar_dataset
+mostrar_dataset(AREAS_PROTEGIDAS)
