@@ -8,7 +8,19 @@ configurar("🗺️")
 
 
 # Encabezado
-st.title("🗺️ Argentina a través de los datos")
+st.title("🗺️ Argentina a través de los datos v.2")
+st.subheader("EEST N°9 La Plata")
+st.write("7°to 2°da Grupo B")
+st.caption("""
+                   Arturo Moreno
+                 """)
+st.caption("versiones anteriores: ")
+st.caption("""
+                 V.1 - Juan cruz salgado https://github.com/juancruzsalado88-wq/stremlit_zzz
+                 """)
+
+
+
 
 st.caption(
     "Una exposición de proyectos realizados con Streamlit"

@@ -15,7 +15,7 @@ TITULO_PESTANA = "Streamlit para expo de datasets"
 FELINOS = {
     "nombre": "Felinos",
     "emoji": "🐾",
-    "fuente": "GBIF (gbif.org)",
+    "fuente": "https://www.gbif.org/",
     "resumen": "Avistamientos de felinos silvestres en Argentina.",
     "que_es": (
         "Estas aplicaciones muestran información sobre los avistamientos de felinos "
@@ -36,14 +36,14 @@ FELINOS = {
     "apps": [
         {"autor": "Catalina Fernandez", "repo": "https://github.com/katalon4184-design/tp11-pps", "url": ""},
         {"autor": "Persigo Martín", "repo": "https://github.com/persigoWast12/app_pps", "url": ""},
-        {"autor": "Juan cruz salgado", "repo": "", "url": ""},
+        {"autor": "Juan cruz salgado", "repo": "https://github.com/juancruzsalado88-wq/stremlit_zzz", "url": ""},
     ],
 }
 
 AEROPUERTOS = {
     "nombre": "Aeropuertos",
     "emoji": "✈️",
-    "fuente": "Dataset de aeropuertos de Argentina",
+    "fuente": "https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG",
     "resumen": "Cuántos aeropuertos hay, de qué tipo y dónde están.",
     "que_es": (
         "La aplicación permite conocer mejor los aeropuertos de Argentina de una manera "
@@ -59,13 +59,14 @@ AEROPUERTOS = {
     "aviso": "",
     "apps": [
         {"autor": "Cristian Lescano", "repo": "https://github.com/Comediasr/PPs/blob/main/texto_expo_pps.odt", "url": ""},
+        {"autor": "Mateo Quevedo", "repo": "https://github.com/gitjab7/trabajostreamlit", "url": ""},
     ],
 }
 
 CONECTIVIDAD = {
-    "nombre": "Conectividad a Internet",
+    "nombre": "Conectividad a internet",
     "emoji": "🌐",
-    "fuente": "Dataset de conectividad de Argentina",
+    "fuente": "https://indicadores.enacom.gob.ar/DatosAbiertos/Internet/accesos-tecnologias-localidades",
     "resumen": "Qué tecnologías y conexiones de internet hay en el país.",
     "que_es": "Aquí vemos información sobre las redes de internet en la Argentina.",
     "secciones": [
@@ -84,7 +85,7 @@ CONECTIVIDAD = {
 AREAS_PROTEGIDAS = {
     "nombre": "Áreas protegidas",
     "emoji": "🌳",
-    "fuente": "Dataset de áreas protegidas de Argentina",
+    "fuente": "https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG",
     "resumen": "Distribución, tamaño, tipo y jurisdicción de las áreas protegidas.",
     "que_es": (
         "En esta página web se conocen datos sobre las áreas protegidas de Argentina: "
