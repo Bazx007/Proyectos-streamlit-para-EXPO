@@ -36,6 +36,7 @@ FELINOS = {
     "apps": [
         {"autor": "Catalina Fernandez", "repo": "https://github.com/katalon4184-design/tp11-pps", "url": ""},
         {"autor": "Persigo Martín", "repo": "https://github.com/persigoWast12/app_pps", "url": ""},
+        {"autor": "Juan cruz salgado", "repo": "", "url": ""},
     ],
 }
 
