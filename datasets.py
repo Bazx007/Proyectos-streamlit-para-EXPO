@@ -107,7 +107,7 @@ AREAS_PROTEGIDAS = {
     "apps": [
         {"autor": "Arturo Moreno", "repo": "https://github.com/Bazx007/Texto-informativo-sobre-app-areas-protegidas", "url": ""},
         {"autor": "Alejandro Moreno", "repo": "https://github.com/AleJndroMoreno/STREAMLIT-/blob/main/documento%20Areas%20protegidas%20dataset%20Expo%20Alejandro%20moreno.docx", "url": ""},
-        {"autor": "Rodriguez Alejo", "repo": "https://github.com/AlejoRodriguez57/pps-Armar-un-texto-para-expo-de-la-escuela/blob/main/txt", "url": ""},
+        {"autor": "Rodriguez Alejo", "repo": "https://pps-tp11-ai2g9i35fjxmar9z2kpfob.streamlit.app/", "url": ""},
     ],
 }
 
