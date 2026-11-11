@@ -58,7 +58,7 @@ AEROPUERTOS = {
     "objetivo": "Que cualquier persona, aunque no tenga conocimientos de informática o análisis de datos, pueda explorar la información, comprenderla fácilmente y descubrir datos interesantes sobre nuestro país.",
     "aviso": "",
     "apps": [
-        {"autor": "Cristian Lescano", "repo": "https://github.com/Comediasr/PPs/blob/main/texto_expo_pps.odt", "url": ""},
+        {"autor": "Cristian Lescano", "repo": "https://github.com/Comediasr/Pps-trabajo-expo", "url": ""},
         {"autor": "Mateo Quevedo", "repo": "https://github.com/gitjab7/trabajostreamlit", "url": ""},
     ],
 }
