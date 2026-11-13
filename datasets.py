@@ -34,8 +34,8 @@ FELINOS = {
     "objetivo": "Que cualquier persona pueda explorar los datos de forma fácil y visual, y descubrir dónde y cuándo se ven los felinos de nuestro país.",
     "aviso": "",
     "apps": [
-        {"autor": "Catalina Fernandez", "repo": "https://github.com/katalon4184-design/tp11-pps", "url": ""},
-        {"autor": "Persigo Martín", "repo": "https://github.com/persigoWast12/app_pps", "url": ""},
+        {"autor": "Catalina Fernandez", "repo": "https://catalina-pps.streamlit.app/Conociendo_nuestros_datos", "url": ""},
+        {"autor": "Persigo Martín", "repo": " https://martin-pps.streamlit.app/", "url": ""},
         {"autor": "Juan cruz salgado", "repo": "https://github.com/juancruzsalado88-wq/stremlit_zzz", "url": ""},
     ],
 }
@@ -58,8 +58,8 @@ AEROPUERTOS = {
     "objetivo": "Que cualquier persona, aunque no tenga conocimientos de informática o análisis de datos, pueda explorar la información, comprenderla fácilmente y descubrir datos interesantes sobre nuestro país.",
     "aviso": "",
     "apps": [
-        {"autor": "Cristian Lescano", "repo": "https://github.com/Comediasr/Pps-trabajo-expo", "url": ""},
-        {"autor": "Mateo Quevedo", "repo": "https://github.com/gitjab7/trabajostreamlit", "url": ""},
+        {"autor": "Cristian Lescano", "repo": "https://cristian-pps.streamlit.app/", "url": ""},
+        {"autor": "Mateo Quevedo", "repo": "https://mateo-pps.streamlit.app/", "url": ""},
     ],
 }
 
@@ -162,10 +162,10 @@ def mostrar_dataset(d):
             with st.container(border=True):
                 st.markdown(f"**App de {app['autor']}**")
                 if app["repo"]:
-                    st.link_button("Ver repositorio y texto", app["repo"])
+                    st.link_button("Ver app o repositorio", app["repo"])
                 else:
                     st.warning("Falta el link del repositorio.")
                 if app["url"]:
                     components.iframe(app["url"], height=450, scrolling=True)
                 else:
-                    st.caption("La app publicada aparecerá acá cuando se agregue su link.")
+                    st.caption("Algunos links solo tienen apps y otros links solo tienen repositorios")
