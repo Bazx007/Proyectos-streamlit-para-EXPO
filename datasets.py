@@ -8,10 +8,10 @@ TITULO_PESTANA = "Streamlit para expo de datasets"
 #  Cada compañero agrega su app dentro de "apps" del dataset que
 #  corresponda:
 #    autor : nombre del compañero
-#    repo  : link del repositorio de GitHub (donde está su texto)
-#    url   : link de la app ya publicada (opcional). Si se completa,
-#            la app se muestra dentro de la celda.
+#    repo  : link de la app si hay. Si no hay link del repo.
+#    url   : No se debe utilizar
 # ------------------------------------------------------------------
+
 FELINOS = {
     "nombre": "Felinos",
     "emoji": "🐾",
